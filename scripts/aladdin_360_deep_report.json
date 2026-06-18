@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-06-17 14:31:23",
+  "target": "ак ливингстон",
+  "core_metrics": {
+    "demand": {
+      "top": [],
+      "regions": [
+        {
+          "region": "239",
+          "count": "7",
+          "share": 1.4693028422488041e-05,
+          "affinityIndex": 19513.035417628973,
+          "region_name": "Сочи",
+          "oracle_score": 176.22
+        },
+        {
+          "region": "11463",
+          "count": "1",
+          "share": 1.4123124837407525e-05,
+          "affinityIndex": 18756.17655092389,
+          "region_name": "Евпатория",
+          "oracle_score": 56.462
+        },
+        {
+          "region": "10995",
+          "count": "7",
+          "share": 1.7302395312462745e-06,
+          "affinityIndex": 2297.8397838335623,
+          "region_name": "Краснодарский край",
+          "oracle_score": 20.752
+        },
+        {
+          "region": "26",
+          "count": "7",
+          "share": 7.689135974415846e-07,
+          "affinityIndex": 1021.153558582273,
+          "region_name": "Юг",
+          "oracle_score": 9.222
+        },
+        {
+          "region": "977",
+          "count": "1",
+          "share": 6.281671401999958e-07,
+          "affinityIndex": 834.2356185844504,
+          "region_name": "Республика Крым",
+          "oracle_score": 2.511
+        },
+        {
+          "region": "225",
+          "count": "7",
+          "share": 7.27389068412021e-08,
+          "affinityIndex": 96.60070236164727,
+          "region_name": "Россия",
+          "oracle_score": 0.872
+        }
+      ],
+      "dynamics": []
+    },
+    "infrastructure": {
+      "project": "ак ливингстон",
+      "infrastructure_score": 3.3,
+      "amenities_detected": {
+        "school": true,
+        "kindergarten": true,
+        "hospital": false,
+        "shop": false,
+        "transport": false,
+        "nature": false
+      },
+      "summary": "Detected 2 out of 6 key amenity categories nearby."
+    }
+  },
+  "social_intelligence": {
+    "youtube": {
+      "platform": "YouTube",
+      "videos_found": 2,
+      "video_ids": [
+        "xvLiLaKy4C4",
+        "jCAgKDLJ-pw"
+      ],
+      "insights": "Active discussion on YouTube detected."
+    },
+    "vk": {
+      "platform": "VK",
+      "groups_found": [
+        {
+          "url": "https://vk.com/club2397377",
+          "name": "Аудиокниги ВКонтакте",
+          "members": 333,
+          "description": "В группе выкладываются аудио книги для потокового прослушивания.\nНадеюсь архивы будут обновляться!\nЕдинственное правило!!! Если Вы выкладываете аудио книги главами начинайте загрузку с последнего трек",
+          "activity": "Public page"
+        }
+      ],
+      "posts_sample": [
+        {
+          "url": "https://vk.com/wall-236905967_33",
+          "text_preview": "Что выбрать на рынке курортной недвижимости в бюджете до 15 млн рублей: Сочи, Анапа или Алтай?  Наверное, каждый  мечтает о пассивном доходе. Так, чтобы на пенсии хватало и на путешествия, и на рестор",
+          "owner_id": -236905967,
+          "post_id": 33,
+          "comments_count": 0,
+          "comments": []
+        },
+        {
+          "url": "https://vk.com/wall-236905967_4",
+          "text_preview": "ПАССИВНЫЙ ДОХОД В СОЧИ: ПОЧЕМУ 8 ИЗ 10 ОБЪЕКТОВ НЕ СХОДЯТСЯ В РАСЧЁТАХ  Любой инвестор, который задумывается о приобретении недвижимости для пассивного дохода в Сочи, хочет выбрать лучший объект. Объе",
+          "owner_id": -236905967,
+          "post_id": 4,
+          "comments_count": 0,
+          "comments": []
+        },
+        {
+          "url": "https://vk.com/wall-162947134_48023",
+          "text_preview": "44 минуты: Бойня в северном Голливуде (2003)    Жанр: боевик, драма  Актёры : Майкл Мэдсен, Рон Ливингстон, Рэй Бэйкер    Двое грабителей, в полной армейской экипировке, вооруженных АК-47, захватили б",
+          "owner_id": -162947134,
+          "post_id": 48023,
+          "comments_count": 0,
+          "comments": []
+        },
+        {
+          "url": "https://vk.com/wall891385268_1354",
+          "text_preview": "ВОСТОЧНАЯ СКАЗКА 9  На краю сапфировой реки – броды одиннáдцатого часа. Желчными бывают старики словно я – не рядовой запаса, хорошо стреляющий с руки  из ружья, АК, ПМ и лука. Ветрено. Поправка. Кабл",
+          "owner_id": 891385268,
+          "post_id": 1354,
+          "comments_count": 0,
+          "comments": []
+        },
+        {
+          "url": "https://vk.com/wall-162586620_10463",
+          "text_preview": "СРОЧНАЯ ПРОДАЖА УПАКОВАННЫХ АПАРТАМЕНТОВ ПО ЦЕНЕ ЧЕРНОВЫХ 🚨  АК \"КРЫМСКИЙ\" 🔆  👉 ОБ АПАРТАМЕНТАХ:  ➡️ 38 м², правильная форма ➡️ 4 этаж ➡️ 2 световые точки ➡️ Балкон с 2-мя выходами ➡️ Панорамное остек",
+          "owner_id": -162586620,
+          "post_id": 10463,
+          "comments_count": 1,
+          "comments": []
+        }
+      ],
+      "activity_level": "Moderate",
+      "detected_signals": [],
+      "source": "VK API"
+    },
+    "telegram": {
+      "platform": "Telegram",
+      "verified_communities": [],
+      "status": "NO_VERIFIED_DATA",
+      "summary": "Detected 0 verified high-traffic communities matching brand 'ак'."
+    },
+    "maps": {
+      "location": "Сочи",
+      "leads_found": [
+        {
+          "type": "Business Lead",
+          "contact": "+7 (862) 225-70-18"
+        },
+        {
+          "type": "Business Lead",
+          "contact": "+7 (928) 666-90-61"
+        },
+        {
+          "type": "Business Lead",
+          "contact": "+7 (913) 539-77-83"
+        }
+      ],
+      "summary": "Identified 3 local business contacts through search proxy."
+    }
+  },
+  "personas": {
+    "error": "Google API Key missing. Persona generation skipped."
+  },
+  "insights": [
+    "SOCIAL: Active digital footprint detected (2 videos, 0 channels)."
+  ]
+}
